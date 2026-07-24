@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Tan ðŸ‘‹
+# Hi, I'm Tan 👋
 
-### Software Developer Â· Backend & API Enthusiast
+### Software Developer · Backend & API Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanysz.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/HelloTan?style=for-the-badge&logo=github&label=Followers)](https://github.com/HelloTan?tab=followers)
@@ -13,10 +13,10 @@
 
 I build practical software, integrations, and backend services. I enjoy working at the intersection of APIs, automation, and reliable developer tooling.
 
-- ðŸ”­ Exploring backend systems and modern API development
-- ðŸŒ± Always learning and refining my engineering craft
-- ðŸ¤ Open to collaboration on useful open-source projects
-- ðŸ“« Find my work and projects below
+- 🔭 Exploring backend systems and modern API development
+- 🌱 Always learning and refining my engineering craft
+- 🤝 Open to collaboration on useful open-source projects
+- 📫 Find my work and projects below
 
 ## Tech stack
 
@@ -45,6 +45,6 @@ I build practical software, integrations, and backend services. I enjoy working 
 
 <div align="center">
 
-Thanks for visiting â€” feel free to explore my repositories and connect.
+Thanks for visiting — feel free to explore my repositories and connect.
 
 </div>
