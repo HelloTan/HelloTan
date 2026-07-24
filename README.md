@@ -37,12 +37,6 @@ I build practical software, integrations, and backend services. I enjoy working 
 | [line2slack-multiuser](https://github.com/HelloTan/line2slack-multiuser) | Multi-user LINE-to-Slack integration |
 | [LINEPY](https://github.com/HelloTan/LinePY) | Python tooling for LINE |
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelloTan&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for HelloTan" />
-</p>
-
 <div align="center">
 
 Thanks for visiting — feel free to explore my repositories and connect.
