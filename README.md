@@ -1,44 +1,72 @@
 <div align="center">
 
-# Hi, I'm Tan 👋
+# Tanysz
 
-### Software Developer · Backend & API Enthusiast
+### Backend Developer | API Builder | Python and Arduino Maker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanysz.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/HelloTan?style=for-the-badge&logo=github&label=Followers)](https://github.com/HelloTan?tab=followers)
+<a href="https://github.com/HelloTan"><img src="https://img.shields.io/badge/GitHub-HelloTan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub HelloTan" /></a>
+<a href="https://tanysz.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<sub>Created by Tanysz. Building practical software, integrations, and embedded projects.</sub>
 
 </div>
 
-## About me
+---
 
-I build practical software, integrations, and backend services. I enjoy working at the intersection of APIs, automation, and reliable developer tooling.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- 🔭 Exploring backend systems and modern API development
-- 🌱 Always learning and refining my engineering craft
-- 🤝 Open to collaboration on useful open-source projects
-- 📫 Find my work and projects below
+### What I build
+
+- Backend services and REST APIs
+- Workflow automation and integrations
+- Developer tools with Python
+- Arduino projects connected to real data
+
+    </td>
+    <td width="50%" valign="top">
+
+### Current direction
+
+```text
+Focus     Backend + API engineering
+Learning  Modern Python workflows
+Building  Useful, small, reliable projects
+```
+
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Featured projects
+## Featured work
 
-| Project | Focus |
-| --- | --- |
-| [FastAPI Portfolio API](https://github.com/HelloTan/fastapi-portfolio-api) | A portfolio API built with FastAPI |
-| [LineJava](https://github.com/HelloTan/LineJava) | Java-based LINE integration |
-| [line2slack-multiuser](https://github.com/HelloTan/line2slack-multiuser) | Multi-user LINE-to-Slack integration |
-| [LINEPY](https://github.com/HelloTan/LinePY) | Python tooling for LINE |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Portfolio API](https://github.com/HelloTan/fastapi-portfolio-api) | Lightweight portfolio API with clean endpoints | `Python` `FastAPI` |
+| [Arduino GPS Tracker](https://github.com/HelloTan/arduino-gps-tracker) | Reads live GPS coordinates from a NEO-6M module | `Arduino` `C++` |
+| [LineJava](https://github.com/HelloTan/LineJava) | Java-based LINE integration | `Java` |
+| [line2slack-multiuser](https://github.com/HelloTan/line2slack-multiuser) | Multi-user LINE to Slack integration | `Python` |
+
+## Python x Arduino
+
+I use Python for backend services, automation, and APIs, then connect software ideas with Arduino hardware when a project needs real-world input. The [Arduino GPS Tracker](https://github.com/HelloTan/arduino-gps-tracker) is one example: it reads GPS data and turns it into useful location output.
+
+---
 
 <div align="center">
 
-Thanks for visiting — feel free to explore my repositories and connect.
+Open to practical collaborations and useful open-source projects.
 
 </div>
