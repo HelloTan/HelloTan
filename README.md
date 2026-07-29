@@ -5,7 +5,7 @@
 ### Backend Developer | API Builder | Python and Arduino Maker
 
 <a href="https://github.com/HelloTan"><img src="https://img.shields.io/badge/GitHub-HelloTan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub HelloTan" /></a>
-<a href="https://tanysz.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://tanysz.team"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 <sub>Created by Tanysz. Building practical software, integrations, and embedded projects.</sub>
 
